@@ -2,7 +2,7 @@
 
 Installs dependencies needed in order to run puppeteer on heroku. Be sure to include `{ args: ['--no-sandbox'] }` in your call to `puppeteer.launch`
 
-## Usage
+## Usages
 
 To use the latest stable version run:
 
